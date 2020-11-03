@@ -3,3 +3,6 @@
 
 * 깃허브와 친해지기
 * <https://github.com>
+
+# 창작자
+ * 강윤구 <2yunku@gmail.com>
